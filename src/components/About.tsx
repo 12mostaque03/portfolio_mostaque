@@ -32,7 +32,7 @@ const About = () => {
             <div className="relative">
               <div className="w-80 h-80 rounded-2xl overflow-hidden glass-card">
                 <img 
-                  src="../photo.png"
+                  src="../../photo.png"
                   alt="Sk Mostaque"
                   className="w-full h-full object-cover"
                 />
